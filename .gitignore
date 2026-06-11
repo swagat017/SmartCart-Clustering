@@ -1,0 +1,12 @@
+# ignore dataset files
+smartcart_customers.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS code temporary jupyter files
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
